@@ -1,0 +1,53 @@
+.navbar
+{
+    position: fixed;
+    width: 100%;
+    background-color:#2a3e50;
+    height: 85px;
+}
+
+.start
+{
+    background-color:#31bc9c;
+}
+
+.paragraph
+{
+    display: flex;
+    justify-content: center;
+}
+
+.left-paragraph, .right-paragraph
+{
+    flex: 1;
+}
+
+.button-container 
+{
+    display: flex;
+    justify-content: center;
+}
+
+.btn
+{
+    border: 2px solid #fff;
+    border-radius: .4rem;
+    cursor: pointer;  
+}
+
+.button
+{
+    background-color:#31bc9c;
+}
+
+.footer
+{
+    background-color:#2a3e50;
+}
+
+.copyright
+{
+    background-color: #192734;
+}
+
+
